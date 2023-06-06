@@ -5,7 +5,7 @@
 <p>Email me if you have any questions</p><p> <a target="_blank" href="mailto:ArbenTemaj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a></p>
 
 <p>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</p>  
-<p>Don't forget to get to follow my linkedin</p>
+<p>Don't forget to get to follow my Socials and Linkedin</p>
 <p><a href="https://www.linkedin.com/in/arben-temaj/"><img src="https://img.shields.io/badge/-@ArbenTemaj-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/Arben-Temaj/" alt="LinkedIn Badge"></a> 
   
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
